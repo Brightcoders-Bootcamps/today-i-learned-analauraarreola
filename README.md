@@ -7,7 +7,7 @@ Ruby and Rails official documentation reading personal journal
 ### Thu 23, July 2020 *[Reading topic or title]*
 Dear dairy, today I learn why we love Ruby. 
 Ruby is a practic language, you can save time using this code, because other way you spend much time compiling or waiting to make a cycle. Ruby mix a true object oriented language with a conventional syntaxis and the best of good measure of the flexibility and convenience of languages.
-
+I read this documentation: 
 http://docs.ruby-doc.com/docs/ProgrammingRuby/
 
 ### Fri 24, July 2020 *[Reading topic or title]*
