@@ -14,6 +14,8 @@ http://docs.ruby-doc.com/docs/ProgrammingRuby/
 Dear dairy, today I learn that maybe Ruby its not for everyone but its applicability make possible to create great things and you will made of Ruby your language of choice.
 http://docs.ruby-doc.com/docs/ProgrammingRuby/
 
+## Week 2
+
 ### Mon 27, July 2020 *[Why Did We Write This Book?]*
 Dear dairy, today I learn that developers wrote this docummentation because since 1995 when Ruby was invented by Yukihiro Matsumoto most of its docummentation was in Japanese, people who wrote this book want to spread using Ruby so  more people can enjoy its benefits.
 http://docs.ruby-doc.com/docs/ProgrammingRuby/
